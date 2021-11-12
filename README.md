@@ -9,7 +9,7 @@
 <h2>|Project Link|<h2/>
 https://codepen.io/manan2504/pen/porZRMp
 
-# For More Projects
+<h2>For More Projects<h2/>
 Github = https://github.com/manan2504
 
 
